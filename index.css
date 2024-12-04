@@ -18,9 +18,55 @@
     
 }
 
+
+.dA{
+    background-color:red;
+    width: 200px;
+    height: 100px;
+}
+.dB{
+    background-color:blue;
+    width: 200px;
+    height: 100px;
+    
+}
+.dC{
+    background-color:brown;
+    width: 200px;
+    height: 100px;
+    
+}
+
+.da{
+    background-color:black;
+    width: 200px;
+    height: 100px;
+}
+.db{
+    background-color:beige;
+    width: 200px;
+    height: 100px;
+    
+}
+.dc{
+    background-color:purple;
+    width: 200px;
+    height: 100px;
+    
+}
 .divmaman{
     display: flex;
     flex-direction: row;
+}
+
+.divmaman2{
+    display: flex;
+    flex-direction: column;
+}
+
+.divmaman3{
+    display: flex;
+    flex-direction: row-reverse;
 }
 
 .premierh1{
